@@ -1,0 +1,7 @@
+You need to initialize a repository to start making commits and keeping track of the 
+changes. When you initiatlize one, it does not make a initial commit for you, but
+you can do the initial commit manually. 
+
+staging area is a temporary place for potential commits, so it allows the user to
+consider options and play around with files to commit before making the changes 
+permanent. 
