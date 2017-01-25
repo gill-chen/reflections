@@ -1,0 +1,21 @@
+fc is convenient to quickly identify differences
+and find the bug
+
+if ever need to take an old version and use that for another project
+having easy access to history helps
+
+choosing logically when to save will make version control more effective
+for the user 
+
+saves time to pull out each individual file and compare 
+
+git log pulls all the recent versions, git diff compares two versions and shows
+the differences between the 2 - requires two IDs 
+
+using version control, i'll be more confident to make changes knowing that i 
+can return to previous versions to see if a bug occurs during those changes
+
+not sure right now, but in the future will be useful for creating versions of projects
+
+
+
