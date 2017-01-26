@@ -1,1 +1,9 @@
-I would want to create a remote repository especially if I'm working as a team, and would like to share my code changes with others. 
+I would want to create a remote repository especially if I'm working as a team, 
+and would like to share my code changes with others. 
+
+I would only want to pull changes manually because I would like to control when
+these changes are relevant to my project, and sometimes I don't want the changes
+affecting my project. If Github syncs everytime with my remote, I might ahve trouble
+with keeping up with the changes that I don't want. 
+
+

@@ -5,3 +5,17 @@ you can do the initial commit manually.
 staging area is a temporary place for potential commits, so it allows the user to
 consider options and play around with files to commit before making the changes 
 permanent. 
+
+diagrams help visualize branch structure by showing you how commits are represented
+in each branch and how they relate with each other
+
+the result of merging two branches is a new master branch (if indeed merging to the 
+master)in the diagram, it is represented by two branches connecting at the tip, 
+with the tip being the new head
+
+
+The pros of Git being able to merge automatically saves a lot of time making 
+the changes from two brnahces comes together. When it can't merge, it helps
+to manually change the conflict since it saves a lot of time, and logically
+it makes sense to have the creator figure out what lines of code needs to be
+retained, or changed.
